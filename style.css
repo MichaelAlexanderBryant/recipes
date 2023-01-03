@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    background-color: black;
+    font-size: 35px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    color: white;
+    background-color: blue;
+    font-size: 35px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ul {
+    font-weight: bold;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    list-style: none;
+}
+
+.hummus {
+    color: brown;
+}
+
+.potato {
+    color: purple;
+}
+
+.burrito {
+    color: green;
+}
+
+img {
+    height: 500px;
+    width: auto;
+}
+
+ol {
+    text-align: left;
+}
